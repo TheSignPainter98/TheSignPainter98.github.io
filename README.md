@@ -30,7 +30,7 @@ I like many things, here is a list of things I like more than other things.
 - [Haskell][haskell]
 - Theoretical Computer Science
 
-[emperor]: https://github.com/emperor-lang/emperor
+[emperor]: https://emperor-lang.github.io/emperor/
 [argspec]: https://github.com/argspec/argspec
 [arggen]: https://github.com/argspec/arggen
 [arglint]: https://github.com/argspec/arglint
