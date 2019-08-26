@@ -13,7 +13,7 @@ Some notable projects I have worked on include:
 - [`argspec`](argspec) a JSON format for specifying command-line interfaces
     - [`arggen`](arggen) an argument parser generator which takes an [`argspec`](argspec) json spec
     - [`arglint`](arglint) a linter for [`argspec`](argspec) specs
-    - [`mangen`](mangen) a `man` page generator which takes [`argspec`](argspec) specs
+    - [`mangen`](mangen) a [`man`](man) page generator which takes [`argspec`](argspec) specs
     - [`argcompgen`](argcompgen) a bash completion script generator which takes [`argspec`](argspec) specs
 - [`texfuck`](texfuck) a [brainfuck](brainfuck) interpreter written in TeX, because.
 - A currently-unpublished introductory text to Theoretical Computer Science which has been worked on since mid 2016
@@ -24,11 +24,11 @@ Some notable projects I have worked on include:
 
 I like many things, here is a list of things I like more than other things.
 
-- Black Mesa
-- Overwatch
-- World of Goo
+- [Black Mesa](black-mesa)
+- [Overwatch](overwatch)
+- [World of Goo](wog)
+- [Haskell](haskell)
 - Theoretical Computer Science
-- Haskell
 
 [emperor]: https://github.com/emperor-lang/emperor
 [argspec]: https://github.com/argspec/argspec
@@ -38,3 +38,8 @@ I like many things, here is a list of things I like more than other things.
 [argcompgen]: https://github.com/argspec/argcompgen
 [texfuck]: https://github.com/TheSignPainter98/texfuck
 [brainfuck]: https://esolangs.org/wiki/Brainfuck
+[man]: https://www.wikiwand.com/en/Man_page
+[black-mesa]: https://www.blackmesasource.com
+[overwatch]: https://playoverwatch.com/en-us/
+[wog]: https://2dboy.com
+[haskell]: https://www.haskell.org
