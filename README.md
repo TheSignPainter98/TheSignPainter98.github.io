@@ -1,38 +1,24 @@
-## Welcome to GitHub Pages
+# Me
 
-You can use the [editor on GitHub](https://github.com/TheSignPainter98/TheSignPainter98.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a software developer who likes anything technical.
+_If something can be automated, it should be._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+I have worked on a wide range of things over the years, more recently trying to adopt a more open-source approach to my work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some notable projects I have worked on include:
 
-```markdown
-Syntax highlighted code block
+- [`emperor`](adsf), a language which attempts to automate the annoyance of threading from the user, while using the speed of C
+- [`argspec`](), a JSON format 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Things I Like
 
-1. Numbered
-2. List
+I like many things, here is a list of things I like more than other things.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheSignPainter98/TheSignPainter98.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-_Some new content_
+- Black Mesa
+- Overwatch
+- World of Goo
+- Theoretical Computer Science
+- Haskell
