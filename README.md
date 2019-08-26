@@ -43,3 +43,4 @@ I like many things, here is a list of things I like more than other things.
 [overwatch]: https://playoverwatch.com/en-us/
 [wog]: https://2dboy.com
 [haskell]: https://www.haskell.org
+[logisim]: http://www.cburch.com/logisim/
