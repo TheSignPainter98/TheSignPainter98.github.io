@@ -3,7 +3,8 @@
 
 @import '{{ site.theme }}';
 
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400&text=EdwarJones&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto+Mono:300|Roboto:300,300i,700&display=swap');
 
 // Typefaces and fonts
 $headerTypeface: 'Playfair Display', serif;
@@ -25,7 +26,7 @@ $linkHoverColour: #2f3061;
 		font-family: $headerTypeface;
 		font-size: 30 - ($i - 1) * 6pt;
 		color: $accentColour;
-		font-weight: bold;
+		font-weight: 700;
 		font-kerning: auto;
 		font-variant-ligatures: common-ligatures;
 	}
@@ -52,6 +53,7 @@ body {
 	font-variant-ligatures: common-ligatures;
 	line-height: 1.55;
 	font-size: $bodyFontSize;
+	font-weight: 300;
 }
 
 code {
@@ -117,7 +119,7 @@ a:hover {
 
 #project_tagline {
 	font-family: $headerTypeface;
-	font-weight: 400;
+	font-weight: 700;
 	letter-spacing: 0.0125;
 	text-shadow: unset;
 }
