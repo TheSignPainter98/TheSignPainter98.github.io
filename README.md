@@ -1,7 +1,7 @@
 # Me
 
 I'm a software developer who likes anything technical.
-_If something can be automated, it should be._
+I also like automating things, sometimes to an un-necessary degree in my continuing quest to ensure that I use a computer as little as possible whilst encouraging the computer to get the most out of itself.
 
 # Projects
 
